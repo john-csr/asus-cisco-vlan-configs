@@ -1,0 +1,5 @@
+Destination: 192.168.10.0  Mask: 255.255.255.0  Gateway: 192.168.1.2
+Destination: 192.168.30.0  Mask: 255.255.255.0  Gateway: 192.168.1.2
+Destination: 192.168.40.0  Mask: 255.255.255.0  Gateway: 192.168.1.2
+Destination: 192.168.50.0  Mask: 255.255.255.0  Gateway: 192.168.1.2
+Destination: 192.168.60.0  Mask: 255.255.255.0  Gateway: 192.168.1.2
